@@ -12,14 +12,21 @@
         <item>wallpaper_0</item>
         <item>wallpaper_1</item>
         <item>wallpaper_2</item>
-   	<item>wallpaper_3</item>
-	<item>wallpaper_4</item> 
-	<item>wallpaper_5</item>
+        <item>wallpaper_3</item>
+        <item>wallpaper_4</item>
+        <item>wallpaper_5</item>
+   	   
  
 </string-array>
 
     <string-array name="info" translatable="false">
         <item>Official JellyBam</item>
-        <item>Galaxy Collection</item>
+        <item>Enjoy the Space</item>
+        <item>Galaxy Collection 01</item>
+        <item>JellyBam Wall03</item>
+        <item>JellyBam Wall04</item>
+        <item>JellyBam Wall05</item>
+
+
     </string-array>
 </resources>
