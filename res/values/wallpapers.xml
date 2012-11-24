@@ -16,7 +16,7 @@
         <item>wallpaper_4</item>
         <item>wallpaper_5</item>
         <item>wallpaper_6</item>
- 
+        <item>wallpaper_7</item>
 </string-array>
 
     <string-array name="info" translatable="false">
@@ -27,6 +27,7 @@
         <item>JellyBam Wall04</item>
         <item>JellyBam Wall05</item>
         <item>Atomic JellyBam</item>
+		<item>JellyBam Wall06</item>
 
     </string-array>
 </resources>
