@@ -17,6 +17,10 @@
         <item>wallpaper_5</item>
         <item>wallpaper_6</item>
         <item>wallpaper_7</item>
+        <item>wallpaper_4.2_1</item>
+        <item>wallpaper_4.2_2</item>
+        <item>wallpaper_4.2_3</item>
+        <item>wallpaper_4.2_4</item>
 </string-array>
 
     <string-array name="info" translatable="false">
@@ -28,6 +32,9 @@
         <item>JellyBam Wall05</item>
         <item>Atomic JellyBam</item>
         <item>JellyBam Wall06</item>
-
+        <item>Android 4.2 Wall01</item>
+        <item>Android 4.2 Wall02</item>	
+        <item>Android 4.2 Wall03</item>	
+        <item>Android 4.2 Wall04</item>		
     </string-array>
 </resources>
