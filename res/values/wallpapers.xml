@@ -19,7 +19,8 @@
         <item>wallpaper_7</item>
         <item>wallpaper_8</item>
         <item>wallpaper_9</item>
-    </string-array>
+        <item>wallpaper_10</item>
+		</string-array>
 
     <string-array name="info" translatable="false">
         <item>Official JellyBam</item>
@@ -32,5 +33,6 @@
         <item>Android Wall02</item>	
         <item>Android Wall03</item>	
         <item>Android Wall04</item>		
-    </string-array>
+        <item>JellyBam Christmas</item>
+		</string-array>
 </resources>
