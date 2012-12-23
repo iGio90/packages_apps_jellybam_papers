@@ -21,6 +21,7 @@
         <item>wallpaper_9</item>
         <item>wallpaper_10</item>
         <item>wallpaper_11</item>
+        <item>wallpaper_12</item>		
 		</string-array>
 
     <string-array name="info" translatable="false">
@@ -35,6 +36,7 @@
         <item>Android Wall03</item>	
         <item>Android Wall04</item>		
         <item>JellyBam Christmas</item>
-        <item>JellyBam Wall07</item>		
+        <item>JellyBam Wall07</item>
+        <item>JellyBam Christmas 2</item>		
 		</string-array>
 </resources>
