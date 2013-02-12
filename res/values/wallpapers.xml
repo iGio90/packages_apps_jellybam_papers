@@ -26,19 +26,19 @@
 		</string-array>
 
     <string-array name="info" translatable="false">
-        <item>Official JellyBam</item>
-        <item>Enjoy the Space</item>
-        <item>Galaxy Collection 01</item>
-        <item>JellyBam Wall03</item>
-        <item>JellyBam Wall04</item>
-        <item>JellyBam Wall06</item>
-        <item>Android Wall01</item>
-        <item>Android Wall02</item>	
-        <item>Android Wall03</item>	
-        <item>Android Wall04</item>		
-        <item>JellyBam Christmas</item>
-        <item>JellyBam Wall07</item>
-        <item>JellyBam Christmas 2</item>		
-        <item>Happy New Year 2013</item>
+        <item>Space Wall 1</item>
+        <item>Space Wall 2</item>
+        <item>Space Wall 3</item>
+        <item>Space Wall 4</item>
+        <item>Minimal Lite 1</item>
+        <item>Minimal Lite 2</item>
+        <item>Minimal Lite 3</item>
+        <item>Minimal Dark 1</item>	
+        <item>Minimal Dark 2</item>	
+        <item>Minimal Dark 3</item>		
+        <item>JellyBam 1</item>
+        <item>JellyBam 2</item>
+        <item>JellyBam 3</item>		
+        <item>JellyBam 4</item>
 		</string-array>
 </resources>
