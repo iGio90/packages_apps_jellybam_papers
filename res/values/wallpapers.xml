@@ -24,7 +24,8 @@
         <item>wallpaper_12</item>		
         <item>wallpaper_13</item>
 		<item>wallpaper_14</item>
-		<item>wallpaper_15</item>		
+		<item>wallpaper_15</item>
+		<item>wallpaper_16</item>		
 		</string-array>
 
     <string-array name="info" translatable="false">
@@ -43,6 +44,7 @@
         <item>JellyBam 3</item>		
         <item>JellyBam 4</item>
         <item>Galaxy S4</item>
+        <item>Jellybam v7 Vector</item>
         <item>Jellybam v7</item>		
 		</string-array>
 </resources>
